@@ -9,5 +9,5 @@
 - 취미: **쇼핑하기**
 
 ## 연락처
-- GitHub id: SuhyunBan
+- GitHub id: **SuhyunBan**
 - 이메일: seraphina0911@snu.ac.kr
